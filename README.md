@@ -1,7 +1,7 @@
 # Hi, I'm Johan Voskamp
 
 **Location:** Arnhem, Netherlands  
-**Current Focus:** Mathematics Bachelor  
+**Current Occupation:** Mathematics Bachelor  
 **Open to Opportunities:** Looking for job experience
 
 ---

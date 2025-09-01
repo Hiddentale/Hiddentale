@@ -1,4 +1,4 @@
-# Hi, I'm Seloria (Johan Voskamp) 👋
+# Hi, I'm Johan Voskamp
 
 **Location:** Arnhem, Netherlands  
 **Current Focus:** Mathematics Bachelor  

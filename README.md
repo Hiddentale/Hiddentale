@@ -8,7 +8,7 @@ I'm a mathematics bachelor passionate about problem-solving, logic, and innovati
 
 ## Skills & Interests
 
-- **Mathematics & Analytical Thinking**
+- **Mathematics & Analytical Thinking (Complexity)**
 - 
 - 
 - 

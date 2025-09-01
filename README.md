@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Seloria (Johan Voskamp) 👋
 
-<!--
-**Hiddentale/Hiddentale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Location:** Arnhem, Netherlands  
+**Current Focus:** Mathematics Bachelor  
+**Open to Opportunities:** Looking for job experience
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a mathematics bachelor passionate about problem-solving, logic, and innovative thinking. As I continue my academic journey, I’m seeking opportunities to apply my analytical skills and gain real-world experience.
+
+---
+
+## Skills & Interests
+
+- **Mathematics & Analytical Thinking**
+---
+
+## Hobbies
+
+Outside of academics, I’m committed to a healthy and active lifestyle, enjoying:
+- Martial arts
+- Running
+- Swimming
+- Cycling
+- Singing
+- Playing board games
